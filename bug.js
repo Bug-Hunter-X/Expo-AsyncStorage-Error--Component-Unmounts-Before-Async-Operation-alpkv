@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo, especially within a component that unmounts before the asynchronous operation completes.  The error message might not always be explicit, but it often manifests as unexpected behavior, crashes, or silent failures after navigating away from the screen using AsyncStorage.
